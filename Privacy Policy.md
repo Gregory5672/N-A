@@ -1,7 +1,5 @@
 Privacy Policy
 
-Last updated: 12-5-2025
-
 Thovar Studios Pty Ltd ("Thovar Studios," "we," "us," or "our") respects your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our Service.
 
 1. Definitions
