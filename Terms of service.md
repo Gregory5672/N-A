@@ -1,7 +1,5 @@
 Terms of Service (TOS)
 
-Last updated: 2025-05-10
-
 1. Introduction
 Welcome to Thovar Studios ("we", "us", "our"). These Terms of Service ("TOS") govern your use of our software, websites, applications, and related services (collectively, the "Service"). By accessing or using the Service, you agree to comply with these TOS. If you do not agree, do not use the Service.
 
