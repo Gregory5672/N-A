@@ -11,3 +11,4 @@ it will take you about 17h to update the list with the code unless multiple inst
 #CPU usage
 you will brick your laptop if you run the script as is (#DO NOT RUN THE SCRIPT!)
 i had 94% cpu usage with this code as i was running 100 instances but then i got https blocked by the website so i had to stop for a little bit however it should work for you.
+the provided downloaded content is already in here
